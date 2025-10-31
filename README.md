@@ -1,1 +1,2 @@
-# CACULATING_FAMILY_-EXPENSES-_USING_SERVICE_NOW
+# Calculating-Family-Expenses-using-ServiceNow
+Calculating Family Expenses using ServiceNow
